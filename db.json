@@ -19,28 +19,10 @@
       "reminder": true
     },
     {
-      "text": "oio",
-      "day": "uiouio",
-      "reminder": true,
-      "id": 5
-    },
-    {
-      "text": "l;';'",
-      "day": "l';l'",
+      "text": "call Doctor",
+      "day": "May 5th at 2:30pm",
       "reminder": false,
-      "id": 6
-    },
-    {
-      "text": "Dilshan",
-      "day": "may 5th",
-      "reminder": false,
-      "id": 7
-    },
-    {
-      "text": "sss",
-      "day": "sss",
-      "reminder": false,
-      "id": 8
+      "id": 4
     }
   ]
 }
